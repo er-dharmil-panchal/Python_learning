@@ -35,5 +35,3 @@ Detailed day-by-day notes can be found in:
 
 ---
 
-## 📁 Folder Structure
-
