@@ -22,7 +22,7 @@ Detailed day-by-day notes can be found in:
 
 ## 🛠️ Tools & Extensions
 
-- Python 3.x
+- Python 3.13.6
 - Visual Studio Code
 - Git & GitHub
 
