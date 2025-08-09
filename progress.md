@@ -29,3 +29,32 @@
 - Using `flush=True` in `print()` for real-time output
 
 ---
+
+# 📅 Day 2 – Python Strings & Operators
+
+## ✅ What I Learned
+
+- **Strings are immutable** (cannot be changed directly).  
+- Declaring strings: `'...'`, `"..."`, `"""..."""` (multiline).  
+- Access characters by index; use slicing `[start:end]`.  
+- Common string methods: `.upper()`, `.lower()`, `.strip()`, `.replace()`, `.split()`, `.find()`, `.index()`, `.count()`.  
+- Difference: `.find()` returns -1 if not found; `.index()` throws error.  
+- Escape sequences: `\n` (new line), `\t` (tab), `\\` (backslash).  
+- Raw strings `r"..."` treat backslashes literally.  
+- Loop over strings with `for`.  
+
+- **Operators:**  
+  - Arithmetic: `+`, `-`, `*`, `/`, `//`, `%`, `**`  
+  - Assignment: `=`, `+=`, `-=` etc.  
+  - Comparison: `==`, `!=`, `<`, `>`, `<=`, `>=`  
+  - Logical: `and`, `or`, `not`  
+  - Membership: `in`, `not in`  
+  - Identity: `is`, `is not`  
+
+## 💡 Notes
+
+- Use `.join()` to concatenate many strings efficiently.  
+- Strings can’t be changed — create new strings for updates.  
+
+---
+
