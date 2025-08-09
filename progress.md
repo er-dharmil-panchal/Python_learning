@@ -10,6 +10,8 @@
 - Installed useful extensions (Error Lens, TODO Tree, CodeSnap)
 - Connected VS Code with GitHub
 
+📄 [`String.py`](operators_notes.py)
+
 ---
 
 ## 🗓️ Day 1 – Python Basics + Output Formatting (Aug 8, 2025)
