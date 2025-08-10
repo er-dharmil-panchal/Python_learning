@@ -58,3 +58,35 @@
 
 ---
 
+## 🗓️ Day 3 – Python Control Flow (Aug 10, 2025)
+
+### ✅ Concepts Learned
+
+- **Loops**  
+  - `for` loop to iterate over sequences or ranges.  
+  - `while` loop for repetition until a condition is false.  
+
+- **Conditional Statements**  
+  - `if`, `elif`, and `else` for decision making.  
+
+- **match-case**   
+  - `case _` acts as a default case.   
+  - Can match multiple values in a single case using `|`.  
+  - Matches complex patterns like lists, tuples, and dictionaries.  
+  - `_` can be used as a wildcard to ignore values.  
+
+- **Loop Control Statements**  
+  - `break` → exits loop immediately.  
+  - `continue` → skips current iteration and moves to the next.  
+  - `pass` → placeholder, does nothing.  
+
+---
+
+## 💡 Notes
+
+- `match-case` is checked top to bottom; first match wins.
+- Use `break` carefully in nested loops — it only breaks the current loop.  
+- `pass` is useful when you need a syntactically valid placeholder.  
+
+---
+
