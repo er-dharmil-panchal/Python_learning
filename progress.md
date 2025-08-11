@@ -30,7 +30,7 @@
 
 ---
 
-# 📅 Day 2 – Python Strings & Operators
+# 📅 Day 2 – Python Strings & Operators  (Aug 9, 2025)
 
 ## ✅ What I Learned
 
@@ -90,3 +90,15 @@
 
 ---
 
+# 🗓️ Day 4 – Python Definitions & Patterns (Aug 11 2025) 
+
+✅ Topics Learned  
+- Loop patterns (e.g., spacing, diamond star)  
+- Function definitions – with and without `return`  
+- Understanding loop ranges for spaces and stars  
+
+📂 Files Updated  
+- `definition.py`  
+- `practice_loop.py` (will be updated over time)  
+
+---
