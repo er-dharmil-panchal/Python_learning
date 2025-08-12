@@ -102,3 +102,14 @@
 - `practice_loop.py` (will be updated over time)  
 
 ---
+
+# 🗓️ Day 5 – Python Practice & Revision (Aug 12, 2025)
+
+## ✅ Today’s Work
+- Practiced medium pattern problem (`number_pyramid`).
+- Revised definitions of **function** and **loop**.
+- Worked with nested loops for spacing and alignment.
+- Explored *Book:-Automate the Boring Stuff with Python* for concept revision.
+
+
+---
