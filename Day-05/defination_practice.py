@@ -72,3 +72,13 @@ def arm(n):
         temp //= 10
     return sum == n
 print(arm(153))
+
+
+def number_pyramid(n):
+    for i in range(1, n+1):
+        print(" " * (n-i), end="")
+        for j in range(1, i+1):
+            print(j, end=" ")
+        print()
+
+number_pyramid(5)
