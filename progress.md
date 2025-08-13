@@ -113,3 +113,23 @@
 
 
 ---
+
+## 🗓️ Day -06 – Python Lists + Tuples Practice (Aug 13, 2025)
+
+### ✅ Concepts Learned
+- Lists (iteration, slicing, comprehension, methods)  
+- Removing duplicates  
+- Matrix traversal  
+- String to list & reverse words  
+- Tuples (immutable collections)  
+
+---
+
+### 📝 Practice
+- Remove duplicates from a list     
+- Matrix element printing  
+- Reverse words in a sentence  
+- Parallel iteration with `zip()`  
+- Tuple creation and access  
+- Tuple unpacking  
+
