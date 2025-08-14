@@ -133,3 +133,14 @@
 - Tuple creation and access  
 - Tuple unpacking  
 
+
+---
+
+# 🗓️ Day -07 – Python Tuples & Sets (Aug 14 2025)  
+
+✅ Topics Learned  
+- Tuples: immutable, indexing, slicing, unpacking, nested tuples  
+- Sets: unordered, no duplicates, looping, methods (`union`, `update`, `intersection`, `intersection_update`)  
+
+--- 
+
