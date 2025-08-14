@@ -7,7 +7,7 @@ This repo tracks my personal progress as I explore and practice Python.
 
 ## 📅 Status
 
-- **Current Day:** Day 6  
+- **Current Day:** Day 7  
 - **Started On:** August 7, 2025  
 - **Goal:** Build a solid foundation in Python through hands-on practice and projects.
 
