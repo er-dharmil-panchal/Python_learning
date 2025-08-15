@@ -144,3 +144,9 @@
 
 --- 
 
+# 🗓️ Day -08 – Python `time.strftime` Format Codes (Aug 15, 2025)
+
+✅ **Concepts Learned**  
+- Using `time.strftime()` to format date and time strings in Python.  
+- Understanding various **format codes** for date/time representation.  
+- Combining multiple placeholders in a single formatted string. 
