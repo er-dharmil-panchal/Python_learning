@@ -149,4 +149,18 @@
 ✅ **Concepts Learned**  
 - Using `time.strftime()` to format date and time strings in Python.  
 - Understanding various **format codes** for date/time representation.  
-- Combining multiple placeholders in a single formatted string. 
+- Combining multiple placeholders in a single formatted string.
+
+---
+
+# 🗓️ Day -09 – Python Sets (Aug 16, 2025)
+
+### ✅ Topics Learned  
+- **Set Operations**: `union`, `update`, `intersection`, `intersection_update`,  
+  `difference`, `difference_update`, `symmetric_difference`, `symmetric_difference_update`  
+- **Set Manipulation**: `isdisjoint`, `issuperset`, `issubset`,  
+  `add`, `update`, `remove`, `discard`, `pop`, `clear`, `del`, `in`  
+
+### 🔁 Revision  
+- Revised previous topics for better recall and clarity.
+
