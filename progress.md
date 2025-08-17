@@ -164,3 +164,16 @@
 ### 🔁 Revision  
 - Revised previous topics for better recall and clarity.
 
+---
+
+# 🗓️ Day 10 – Python Dictionaries (Aug 17, 2025)
+
+## ✅ Today's Work
+- Learn Dictionary
+- Covered **12 dictionary operations**: creation, access, update, removal
+- Practiced **safe access** with `.get()` vs `[]` notation
+- Worked with **nested dictionaries** and **dictionary iteration**
+- Learned **modern merging** with `|` operator (Python 3.9+)
+- Explored `.setdefault()`, `.pop()`, `.popitem()`, and `.clear()` methods
+
+---
