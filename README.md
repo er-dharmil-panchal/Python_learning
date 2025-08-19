@@ -7,7 +7,7 @@ You are welcome to follow along, learn, or provide suggestions to help me improv
 
 ## 📅 Status
 
-- **Current Day:** Day 11  
+- **Current Day:** Day 12  
 - **Started On:** August 7, 2025  
 - **Goal:** Build a solid foundation in Python through hands-on practice and projects.
 
