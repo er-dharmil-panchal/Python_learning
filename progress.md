@@ -177,3 +177,26 @@
 - Explored `.setdefault()`, `.pop()`, `.popitem()`, and `.clear()` methods
 
 ---
+
+# 🗓️ Day 11 - basics of exception handling (Aug 18, 2025)
+- basics of exception handling in pyhthon
+- learn about try-except flow
+- start basic of what is finally
+
+---
+
+# 🗓️ Day 12 – File Handling & Exception Handling (Aug 19, 2025)
+
+## ✅ Today's Work
+
+### File Handling
+- Detailed Flow of Nested try-except-finally
+- Learned how to open files using `open(filename, mode)`
+- Covered file modes: `'r'` (read), `'w'` (write), `'a'` (append), `'x'` (create)
+- Practiced reading file content with `.read()`
+- Learned writing to files and automatic file creation
+- Learned to close files properly with `.close()`
+- Explored text mode `'t'` and combining modes (`'rt'`, `'wt'`)
+
+
+---
