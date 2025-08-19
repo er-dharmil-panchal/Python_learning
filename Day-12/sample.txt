@@ -1,0 +1,3 @@
+Hello everyone,
+My name is Dhamril
+it's 19 AUG, and i am learning python File I/O
