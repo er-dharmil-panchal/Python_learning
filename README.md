@@ -11,7 +11,7 @@ Hey there! Welcome to my Python learning adventure. I'm documenting my journey f
 - [Daily Logs](#daily-logs)
 - [Daily Work](#daily-work)
 - [Tools & Extensions](#tools--extensions)
-- [Ready to Explore? Here's how](#ready-to-explore-heres-how)
+- [Ready to explore? Here's how](#ready-to-explore-heres-how)
 - [Feedback](#feedback)
 
 ---
