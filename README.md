@@ -15,13 +15,13 @@ Hey there! Welcome to my Python learning adventure. I'm documenting my journey f
 - [Feedback](#feedback)
 
 ---
-# 🎯 About
+## 🎯 About
 I started this Python learning journey on August 7th, 2025, with a goal: build solid Python knowledge and get really good at it. This repo is my learning playground, filled with code examples, personal notes, and small projects. My goal is to build strong Python fundamentals while sharing my progress and creating a resource for beginners like me.
 Follow my progress and connect with me on Twitter @Dharmil_13 where I share updates and learning moments.
 
 ---
 
-# 📅 Status
+## 📅 Status
 
 - **Current Day:** Day 13  
 - **Started On:** August 7, 2025  
@@ -29,25 +29,25 @@ Follow my progress and connect with me on Twitter @Dharmil_13 where I share upda
 
 ---
 
-# 🧠 Daily Logs
+## 🧠 Daily Logs
 Find my day-by-day learning journey here:
 `progress.md` (progress.md)  
 Includes what I learned each day.
 ---
 
-# 📈 Daily Work 
+## 📈 Daily Work 
 
 I organize my work by day in folders like `Day-01/`, `Day-02/`. Each folder has what I learned or built. Check them out:
 *Note: I’ll keep adding new day folders as I learn—stay tuned!*
 ---
 
-# 🛠️ Tools & Extensions
+## 🛠️ Tools & Extensions
 
 - Python 3.13.6
 - Visual Studio Code
 - Git & GitHub
 
-## VS Code Extensions:
+### VS Code Extensions:
 - Python (official)
 - Black Formatter
 - Error Lens
@@ -56,7 +56,7 @@ I organize my work by day in folders like `Day-01/`, `Day-02/`. Each folder has 
 
 ---
 
-# 🚀 Ready to explore? Here's how:
+## 🚀 Ready to explore? Here's how:
 
 Clone this repo: `git clone https://github.com/er-dharmil-panchal/Python_learning.git`  
 Check out `progress.md` for my daily learning or dive into the day folders (e.g., `Day-13/`).  
@@ -66,7 +66,7 @@ Feel free to experiment with anything you find interesting.
 
 ---
 
-# 💬 Feedback
+## 💬 Feedback
 
 Have thoughts or suggestions? I'd love to hear from you! Open an issue here or connect with me on Twitter @Dharmil_13 with #PythonLearning.
 
