@@ -200,3 +200,22 @@
 
 
 ---
+
+# 🗓️ Day 13 – File Handling & Recursion (Aug 20, 2025)
+
+✅ Today's Work
+
+**File Handling**
+* Learned file modes: `'r'`, `'w'`, `'a'`, `'x'` and text/binary modes
+* Practiced reading with `.read()` and writing with `.write()`
+* Used `with` statement for automatic file closing
+* Practice: Created, wrote to, and read from sample.txt files
+
+**Recursion**
+* Understood recursion basics with end conditions
+* Implemented: factorial, fibonacci, sum of digits, stair climbing ways
+* Learned recursive patterns: base case + recursive relationship
+* Practice: Built 5 recursive functions with dry run analysis of factorial(5)
+
+---
+
