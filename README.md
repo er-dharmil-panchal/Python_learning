@@ -4,16 +4,15 @@ Hey there! Welcome to my Python learning adventure. I'm documenting my journey f
 
 ---
 
-# 📝 Table of Contents
+## 📝 Table of Contents
 
 - [About](#about)
 - [Status](#status)
 - [Daily Logs](#daily-logs)
 - [Daily Work](#daily-work)
-- [Tools & Extensions](#tools--extensions)
+- [Tools & Extensions](#tools-and-extensions)
 - [Ready to Explore?](#ready-to-explore)
 - [Feedback](#feedback)
-
 
 ---
 # 🎯 About
