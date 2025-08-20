@@ -10,8 +10,8 @@ Hey there! Welcome to my Python learning adventure. I'm documenting my journey f
 - [Status](#status)
 - [Daily Logs](#daily-logs)
 - [Daily Work](#daily-work)
-- [Tools & Extensions](#tools-and-extensions)
-- [Ready to Explore? Here's how:](#ready-to-explore-heres-how)
+- [Tools & Extensions](#tools--extensions)
+- [Ready to Explore? Here's how](#ready-to-explore-heres-how)
 - [Feedback](#feedback)
 
 ---
