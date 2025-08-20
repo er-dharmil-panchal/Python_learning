@@ -1,0 +1,78 @@
+"""
+==================================================
+PYTHON FILE I/O MODES – COMPLETE DOCUMENTATION
+==================================================
+
+File handling in Python uses the open() function:
+
+    open(filename, mode)
+
+--------------------------------------------------
+BASIC MODES
+--------------------------------------------------
+r  : Read (file must exist, error if not found)
+w  : Write (create new file OR truncate existing file)
+a  : Append (create new file if not exists, otherwise write at end)
+x  : Exclusive create (fail if file exists)
+
+--------------------------------------------------
+EXTRA FLAGS
+--------------------------------------------------
+b  : Binary mode (for bytes, e.g. images, audio, video)
+t  : Text mode (default, for strings)
++  : Update mode (allows BOTH read & write)
+
+--------------------------------------------------
+ABOUT 'u'
+--------------------------------------------------
+- In Python 2, 'u' (or 'U') meant universal newline mode 
+  (handles \n, \r, \r\n automatically).
+- In Python 3, 'u' is IGNORED (kept only for backward compatibility).
+- So "ru" or "rU" is simply "r" in Python 3.
+
+--------------------------------------------------
+ORDER OF FLAGS
+--------------------------------------------------
+- The order of mode flags does NOT matter.
+- Python just looks at the set of characters in the string.
+
+Examples:
+    "a+t" == "at+" == "a+ t"
+    "rb+" == "r+b" == "b+r"
+
+⚠️ Invalid combinations like "rw" will raise an error.
+
+--------------------------------------------------
+VALID COMBINATIONS (TEXT / BINARY)
+--------------------------------------------------
+r   : Read only (text)
+rb  : Read only (binary)
+r+  : Read & write (text, must exist)
+rb+ : Read & write (binary, must exist)
+
+w   : Write only (text, overwrite/create)
+wb  : Write only (binary, overwrite/create)
+w+  : Write & read (text, overwrite/create)
+wb+ : Write & read (binary, overwrite/create)
+
+a   : Append only (text, create if not exists)
+ab  : Append only (binary, create if not exists)
+a+  : Append & read (text, create if not exists)
+ab+ : Append & read (binary, create if not exists)
+
+x   : Create only (text, fail if file exists)
+xb  : Create only (binary, fail if file exists)
+x+  : Create & read (text, fail if file exists)
+xb+ : Create & read (binary, fail if file exists)
+
+--------------------------------------------------
+KEY RULES TO REMEMBER
+--------------------------------------------------
+1. r → must exist
+2. w → overwrite / create
+3. a → append / create
+4. x → exclusive create
+5. + → adds read+write
+6. b / t → binary or text
+7. u → obsolete, ignore in Python 3
+8. Order of flags does not matter
