@@ -11,7 +11,7 @@ Hey there! Welcome to my Python learning adventure. I'm documenting my journey f
 - [Daily Logs](#daily-logs)
 - [Daily Work](#daily-work)
 - [Tools & Extensions](#tools-and-extensions)
-- [Ready to Explore?](#ready-to-explore)
+- [Ready to Explore? Here's how:](#ready-to-explore-heres-how)
 - [Feedback](#feedback)
 
 ---
@@ -69,4 +69,3 @@ Feel free to experiment with anything you find interesting.
 ## 💬 Feedback
 
 Have thoughts or suggestions? I'd love to hear from you! Open an issue here or connect with me on Twitter @Dharmil_13 with #PythonLearning.
-
