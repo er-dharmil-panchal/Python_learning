@@ -219,3 +219,12 @@
 
 ---
 
+# 🗓️ Day 14 - File I/O Advanced (Aug 21, 2025)
+- Reviewed basics: `open()`, `close()`, file modes  
+- Learned:
+  - `read()`, `readline()`, and `writelines()`  
+  - Iterating over file lines  
+  - Writing iterable objects into files  
+  - Using `seek()`, `tell()`, and `truncate()`  
+
+---
