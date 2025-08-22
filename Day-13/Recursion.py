@@ -114,3 +114,54 @@ for i in range(3, 14):
 #       spawns multiple sub-calls. For climbing stairs with {1,2,3} steps,
 #       even a small input creates hundreds of recursive calls.
 #       Example: ways(10) = 653, ways(11) = 1201 😮.
+
+# =========================================================
+# Example 6: Reverse String
+# =========================================================
+
+def reverse_string(s):
+    if len(s) == 0:
+        return s
+    return reverse_string(s[1:]) + s[0]
+
+print(f"Reverse of 'hello' = {reverse_string('hello')}")
+
+
+# =========================================================
+# Example 7: Palindrome Check
+# =========================================================
+
+def is_palindrome(s):
+    if len(s) <= 1:
+        return True
+    if s[0] != s[-1]:
+        return False
+    return is_palindrome(s[1:-1])
+# this is slicing on both side by 1 intext each time
+
+print(is_palindrome("madam"))  # True
+print(is_palindrome("hello"))  # False
+
+# =========================================================
+# Example 8: Power of a Number 
+# =========================================================
+
+def power(base, exp):
+    if exp == 0:
+        return 1
+    return base * power(base, exp - 1)
+
+print(f"2^5 = {power(2,5)}")
+
+# =========================================================
+# Example 9: Greatest Common Divisor (GCD)
+# =========================================================
+def gcd(a, b):
+    if b == 0:
+        return a
+    return gcd(b, a % b)
+
+print(f"GCD of 48 and 18 = {gcd(48, 18)}")
+
+
+
