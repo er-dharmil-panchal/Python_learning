@@ -1,4 +1,10 @@
-# NOTE: Required helper files (.png, .jpg, .mp3) must be downloaded and placed in the `file_io` folder to run this program.
+# NOTE:
+# This script requires the following helper files in the `file_io` folder:
+#   - Random.png
+#   - Random2.jpg
+#   - Sound.mp3
+# Make sure these files exist before running the program.
+
 # ----------------------------------------
 # Simplest approach (read all at once)
 # ----------------------------------------
