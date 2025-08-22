@@ -8,8 +8,12 @@
 # ----------------------------------------
 # Simplest approach (read all at once)
 # ----------------------------------------
-with open("file_io/Random.png", "rb") as randomIMG, open("file_io/image.jpg", "wb") as photo:
-    photo.write(randomIMG.read())
+try:
+    with open("file_io/Random.png", "rb") as randomIMG, open("file_io/image.jpg", "wb") as photo:
+        photo.write(randomIMG.read())
+    print("Image copied successfully!")
+except FileNotFoundError:
+    print("Error: Required file not found. Please check the file_io folder.")
 
 # OR
 photo = open("file_io/image.jpg", "wb")
@@ -31,9 +35,13 @@ photo.write(randomIMG.read())
 # If chunk is empty (b''), loop ends
 # NOTE: '=' assignment in while gives syntax error, use ':='
 
-with open("file_io/Random2.jpg", "rb") as randomIMG, open("file_io/image.jpg", "wb") as photo:
-    while chunk := randomIMG.read(1024):  # read 1KB chunks at a time
-        photo.write(chunk)
+try:
+    with open("file_io/Random2.jpg", "rb") as randomIMG, open("file_io/image.jpg", "wb") as photo:
+        while chunk := randomIMG.read(1024):  # read 1KB chunks at a time
+            photo.write(chunk)
+            print("Image copied successfully!")
+except FileNotFoundError:
+    print("Error: Required file not found. Please check the file_io folder.")
 
     # OR (older Python versions without ':=')
     # chunk = randomIMG.read(1024)
@@ -45,6 +53,10 @@ with open("file_io/Random2.jpg", "rb") as randomIMG, open("file_io/image.jpg", "
 # ----------------------------------------
 # MP3 file example
 # ----------------------------------------
-with open("file_io/Sound.mp3", 'rb') as sound, open("file_io/SoundOP.mp3", 'wb') as op:
-    while chunk := sound.read(1024):
-        op.write(chunk)
+try:
+    with open("file_io/Sound.mp3", 'rb') as sound, open("file_io/SoundOP.mp3", 'wb') as op:
+        while chunk := sound.read(1024):
+            op.write(chunk)
+            print("Sound copied successfully!")
+except FileNotFoundError:
+    print("Error: Required file not found. Please check the file_io folder.")
