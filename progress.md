@@ -228,3 +228,13 @@
   - Using `seek()`, `tell()`, and `truncate()`  
 
 ---
+
+
+# 🗓️ Day 14 - Python File I/O Progress – Binary Files & Integrity Check (Aug 22, 2025)
+
+- Binary file handling** for images and audio  
+- Chunked reading/writing** for large files  
+- MD5 hashing** to verify file integrity
+- Practice of Recursion
+
+---
