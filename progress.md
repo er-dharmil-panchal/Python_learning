@@ -230,7 +230,7 @@
 ---
 
 
-# 🗓️ Day 14 - Python File I/O Progress – Binary Files & Integrity Check (Aug 22, 2025)
+# 🗓️ Day 15 - Python File I/O Progress – Binary Files & Integrity Check (Aug 22, 2025)
 
 - Binary file handling** for images and audio  
 - Chunked reading/writing** for large files  
