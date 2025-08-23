@@ -238,3 +238,21 @@
 - Practice of Recursion
 
 ---
+
+# 🗓️ Day 16 - Custom Exceptions, Short-hand If-Else, any() & all() (Aug 23, 2025)
+
+- **Custom Exceptions**
+  - Created and raised user-defined exceptions
+  - Basic exception hierarchy for larger projects
+
+- **Short-hand If-Else**
+  - Learned single-line if-else syntax
+  - Practiced multiple conditions in a compact format
+
+- **any() and all() Functions**
+  - Used `any()` for checking at least one condition is true
+  - Used `all()` for validating multiple conditions together
+  - Practical examples: input validation, password strength check
+
+
+---
