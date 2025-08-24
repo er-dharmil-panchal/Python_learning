@@ -3,7 +3,7 @@
 A **Python command-line application** to manage your daily expenses efficiently, built as part of my Python learning journey.
 ## 📌 Project Link
 
-[View My Expense Tracker Project on GitHub]([https://github.com/your-username/expense-tracker](https://github.com/er-dharmil-panchal/Python_learning/tree/main/Projects/Expense_Tracker))
+[View My Expense Tracker Project on GitHub](([https://github.com/your-username/expense-tracker](https://github.com/er-dharmil-panchal/Python_learning/tree/main/Projects/Expense_Tracker)))
 
 ---
 
