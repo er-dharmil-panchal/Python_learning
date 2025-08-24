@@ -1,0 +1,10 @@
+pizza : 300 ₹ Food
+burger : 200 ₹ Food
+fees : 18000 ₹ Education
+fees_2 : 18000 ₹ Education
+Mumbai : 8000 ₹ Travel
+Electricity : 5000 ₹ Biils
+Water : 600 ₹ Bills
+Wifi : 1000 ₹ Bills
+Dinner : 2200 ₹ Food
+pizza_ : 300 ₹ Food
