@@ -254,5 +254,20 @@
   - Used `all()` for validating multiple conditions together
   - Practical examples: input validation, password strength check
 
-
 ---
+
+# 📅 Day 17 Expense Tracker (Project) - (24 Aug 2025)  
+
+- **🚀 Project Completed: Expense Tracker**  
+  Built a complete **command-line expense management system** with:  
+  - Full CRUD Operations – Create, Read, Update, Delete expenses with category management  
+  - Advanced File Handling – Temporary files + atomic writes for data safety  
+  - Error Management – Custom exception handling for robust user experience
+ 
+- **🎯 Key Learning Achievements**  
+  - File I/O Mastery – Safe data persistence with backup mechanisms  
+  - Data Structures – Effective use of dictionaries and lists for data management  
+  - User Experience – Input validation and error handling for smooth operation
+
+- 🔗 Project Link :- [View My Expense Tracker Project](https://github.com/er-dharmil-panchal/Python_learning/tree/main/Projects/Expense_Tracker)
+
