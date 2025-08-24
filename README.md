@@ -41,7 +41,6 @@ Includes what I learned each day.
 
 <a name="daily-work"></a>
 ## 📈 Daily Work 
-
 I organize my work by day in folders like `Day-01/`, `Day-02/`. Each folder has what I learned or built. Check them out:
 *Note: I’ll keep adding new day folders as I learn—stay tuned!*
 ---
@@ -50,15 +49,10 @@ I organize my work by day in folders like `Day-01/`, `Day-02/`. Each folder has 
 ## 🛠️ Tools & Extensions
 
 - Python 3.13.6
-- Visual Studio Code
+- **PyCharm Community Edition** (current IDE)
 - Git & GitHub
 
-### VS Code Extensions:
-- Python (official)
-- Black Formatter
-- Error Lens
-- TODO Tree
-- CodeSnap
+> **Note:** I started with **Visual Studio Code**, but switched to **PyCharm** for a smoother Python development experience, better project structuring, and integrated debugging.
 
 ---
 
