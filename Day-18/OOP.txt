@@ -1,0 +1,63 @@
+"""
+📌 Object oriented programming
+- There are 2(Mainly) type of programming
+    i. Functional(Procedural) programming
+    ii. Object-oriented programming
+- We use Class & Objects to represent Real world concept
+What is class ??
+- A class is a blueprint or template for creating objects.
+- Class defines properties and methods that an object of that class will have
+- Methods will execute/perform by object as form of action.
+
+--> Example
+Suppose Person is a class,
+which have properties like - age, height
+& methods like speak(), jump(), walk().
+
+so, If there is 2 person (Mohan & sumit) -  both are person both can speak, jump, walk, both have age , height
+    but value of both (Mohan & sumit) can be different ,
+so, Mohan and sumit are object of person class, and have properties and method of that class
+
+--> Another Example.
+    imagine in a game there is a player which have its health, speed and some operation like fire
+    so we can make a player class and creat object as we need the new players.
+    - if we do Procedural programming then we have creat each player, has to track each player's health etc...
+
+-> class is blueprint or template for creating objects.
+
+------
+OOP concepts :-
+i. Encapsulation
+ii. Inheritance
+iii. Polymorphism
+iv. Abstraction
+
+--> i. Encapsulation = "Keeping data safe inside a box and giving you controlled buttons to interact with it."
+        internal state of an object is hidden and can only be accessed or modified through the object's methods.
+        This helps to protect the object's data and prevent it from being modified in unexpected ways.
+        - ATM -> You can withdraw or check balance, but you can’t directly open the bank’s database or change the balance yourself.
+
+--> ii. Inheritance = "Reusing code by creating a “child” class that automatically gets the features (variables and methods) of a “parent” class."
+        - Example :-
+                car(base class) - Engine, Body, Break, power
+                manual car(child) - gear, clutch
+                automatic car(child) - automatic transmission
+        child class can access the properties and method of parent(base) class
+
+--> iii. Polymorphism = "same function name, different behavior, based on the object."
+            Both different class may have same name of methods.
+        - Example :- Think of a Car’s start button:
+                    In a Manual Car, pressing start turns the engine ON, but you need to use the clutch to drive.
+                    In an Automatic Car, pressing start turns the engine ON, and you can directly drive.
+                    Same button (start), different behavior
+
+--> iv. Abstraction = "Hiding unnecessary details and exposing only what the user needs to interact with."
+        - Example :-    You click “Withdraw Money” → money comes out.
+                        You don’t see how the bank server validates or processes your request.
+        - Hides complex code and only shows necessary methods.
+
+Summary:-
+    OOP in Python allows developers to model real-world concepts using classes and objects,
+    encapsulate data for safety, reuse code through inheritance, 
+    and write flexible and maintainable code through polymorphism and abstraction.
+"""
