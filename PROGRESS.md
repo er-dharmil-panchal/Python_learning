@@ -2,7 +2,7 @@
 
 ---
 
-## 🗓️ Day 0 – Setup (August 7, 2025)
+# 🗓️ Day 0 – Setup (August 7, 2025)
 
 ### ✅ Setup
 - Installed Python 3
@@ -12,7 +12,7 @@
 
 ---
 
-## 🗓️ Day 1 – Python Basics + Output Formatting (Aug 8, 2025)
+# 🗓️ Day 1 – Python Basics + Output Formatting (Aug 8, 2025)
 
 ### ✅ Concepts Learned
 
@@ -30,7 +30,7 @@
 
 ---
 
-# 📅 Day 2 – Python Strings & Operators  (Aug 9, 2025)
+# 🗓️ Day 2 – Python Strings & Operators  (Aug 9, 2025)
 
 ## ✅ What I Learned
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 🗓️ Day 3 – Python Control Flow (Aug 10, 2025)
+# 🗓️ Day 3 – Python Control Flow (Aug 10, 2025)
 
 ### ✅ Concepts Learned
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 🗓️ Day -06 – Python Lists + Tuples Practice (Aug 13, 2025)
+# 🗓️ Day -06 – Python Lists + Tuples Practice (Aug 13, 2025)
 
 ### ✅ Concepts Learned
 - Lists (iteration, slicing, comprehension, methods)  
@@ -256,7 +256,7 @@
 
 ---
 
-# 📅 Day 17 Expense Tracker (Project) - (24 Aug 2025)  
+# 🗓️ Day 17 Expense Tracker (Project) - (24 Aug 2025)  
 
 - **🚀 Project Completed: Expense Tracker**  
   Built a complete **command-line expense management system** with:  
@@ -270,4 +270,16 @@
   - User Experience – Input validation and error handling for smooth operation
 
 - 🔗 Project Link :- [View My Expense Tracker Project](https://github.com/er-dharmil-panchal/Python_learning/tree/main/Projects/Expense_Tracker)
+
+---
+
+# 🗓️ Day 18 - OOP & Classes (Aug 25, 2025)
+
+- **OOP Basics:** Class = blueprint, Object = instance  
+- **OOP Concepts:** Encapsulation, Inheritance, Polymorphism, Abstraction  
+- **Methods:** Instance (`self`), Class (`cls`), Static (independent)  
+- **Constructor:** `__init__` initializes objects automatically  
+- **Examples:** Person, Method, GoogleCompany, Car  
+- **Static Analogy:** Cleaner → belongs to class, works independently
+
 
