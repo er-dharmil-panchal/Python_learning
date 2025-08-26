@@ -282,4 +282,25 @@
 - **Examples:** Person, Method, GoogleCompany, Car  
 - **Static Analogy:** Cleaner → belongs to class, works independently
 
+---
+
+# 🗓️ Day 19 - OOP Concepts: Inheritance, Encapsulation, Polymorphism (Aug 26, 2025)
+
+- **Inheritance**
+  - Child can access parent properties/methods
+  - Types: Single, Hierarchical, Multilevel, Multiple
+  - Method overriding, `super()` keyword
+
+- **Encapsulation**
+  - Hide data, control access
+  - Public (`var`) → anywhere
+  - Protected (`_var`) → class/subclass (discouraged outside)
+  - Private (`__var`) → inside class only, use getter/setter
+
+- **Polymorphism**
+  - Same method behaves differently based on object
+  - Method Overriding → runtime polymorphism
+  - Method Overloading → default args / *args
+  - Operator Overloading → customize `+,-,*,/,==,str()`
+
 
