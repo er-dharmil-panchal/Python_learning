@@ -303,4 +303,29 @@
   - Method Overloading → default args / *args
   - Operator Overloading → customize `+,-,*,/,==,str()`
 
+---
+
+# 🗓️ Day 20 - OOP Concepts: Name Mangling & Decorators (Aug 27, 2025)
+
+- **Name Mangling**
+  - Prevents accidental overwrite of private variables in subclasses
+  - Private attributes renamed internally → `_ClassName__var`
+  - Parent and child can have separate private variables safely
+
+- **Decorators**
+  - Functions that wrap other functions to add extra functionality  
+  - **Custom Decorators**
+    - Basic wrapper structure using `*args` and `**kwargs`
+    - Used for logging, validation, etc.
+  - **Inbuilt Decorators**
+    - `@property` / `@<property>.setter` → for controlled getters & setters  
+    - `@staticmethod` → method tied to class, not object  
+    - `@classmethod` → method tied to class, often used for factory methods  
+
+- **Key Takeaways**
+  - `__var` is not truly private, but safely isolated per class
+  - Decorators help add functionality without touching original code
+  - Learned usage of logging, authentication checks, and property management
+
+
 
