@@ -76,3 +76,13 @@ print(f"Global x after outer(): {x}")  # 150
 # At line where middle() prints y:
 # We can access outer()'s variable y without declaring it in middle().
 # 👉🏻 Accessing is allowed, but modifying a variable from an outer scope requires 'nonlocal'.
+
+"""
+📌 Key Takeaways: Python Variable Scope
+
+- local:      Refers to variables defined inside the current function; affects only this function.
+- nonlocal:   Refers to variables in the nearest enclosing (outer) function; allows modification from inner functions.
+- global:     Refers to variables defined at the module level; can be read or modified from any function using 'global'.
+- Reading:    You can read a variable from an enclosing scope "without" using 'nonlocal'.
+- Modifying:  To modify a variable from an enclosing (non-global) scope, 'nonlocal' "must be used".
+"""
