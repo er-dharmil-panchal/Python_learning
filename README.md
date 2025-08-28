@@ -70,4 +70,4 @@ Feel free to experiment with anything you find interesting.
 <a name="feedback"></a>
 ## 💬 Feedback
 
-Have thoughts or suggestions? I'd love to hear from you! Open an issue here or connect with me on Twitter @Dharmil_13 with #PythonLearning.
+Have thoughts or suggestions? I'd love to hear from you! Open an issue here or connect with me on Twitter(𝕏) @Dharmil_13 with #PythonLearning.
