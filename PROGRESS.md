@@ -326,6 +326,20 @@
   - `__var` is not truly private, but safely isolated per class
   - Decorators help add functionality without touching original code
   - Learned usage of logging, authentication checks, and property management
+---
 
+# 🗓️ Day 21 – Python Variable Types (Aug 28, 2025)
 
+## Instance & Class Variables
+- **Instance Variables** → defined inside `__init__()`, unique to each object  
+- **Class Variables** → defined at class level, shared among all instances  
+- Mutable class variables (list/dict) are shared across instances  
 
+## Local & Global Variables, and  OOP Revision
+- **Local Variables** → defined inside a function, accessible only there  
+- **Global Variables** → defined outside functions/classes, accessible everywhere  
+- Use `global` keyword to modify global variables inside functions  
+- **Nonlocal Variables** → modify variables in outer function from nested function (`nonlocal`)  
+- OOP concept revision
+
+---
