@@ -343,3 +343,22 @@
 - OOP concept revision
 
 ---
+
+# 🗓️ Day 22 – Python Imports & OS Module (Aug 29, 2025)
+
+## Import Basics
+* Learned `import`, `from ... import`, and `as` for aliases  
+* Used `dir()` to explore available module attributes  
+* Practiced with `math` for radians, sine, cosine, and powers  
+
+## Custom Modules
+* Imported user-defined scripts and avoided running extra code using `__name__ == "__main__"`  
+* Practiced reloading updated modules without restarting the script
+
+## OS Module
+* Used `os.getcwd()` to get the current working directory  
+* Created and removed folders with `os.mkdir()` and `os.rmdir()`  
+* Listed files in a directory using `os.listdir()`  
+* Learned path handling basics for cross-platform code
+
+---
