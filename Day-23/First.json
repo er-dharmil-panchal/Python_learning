@@ -1,0 +1,16 @@
+{
+    "name": "Dharmil",
+    "age": 18,
+    "is_student": true,
+    "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "HTML"
+    ],
+    "address": {
+        "city": "Surat",
+        "pin": 380001
+    },
+    "Gender": "Male"
+}

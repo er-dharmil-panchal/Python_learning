@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Dharmil",
+        "skills": [
+            "Python",
+            "Java"
+        ],
+        "is_student": true
+    },
+    {
+        "id": 2,
+        "name": "Raj",
+        "skills": [
+            "C++",
+            "SQL"
+        ],
+        "is_student": false
+    },
+    {
+        "id": 3,
+        "name": "Neha",
+        "skills": [
+            "JavaScript",
+            "React"
+        ],
+        "is_student": true
+    }
+]
