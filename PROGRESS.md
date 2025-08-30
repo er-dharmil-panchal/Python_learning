@@ -362,3 +362,18 @@
 * Learned path handling basics for cross-platform code
 
 ---
+
+# 🗓️ Day 23 - Python JSON  (Aug 30, 2025)
+
+- JSON basics , importance , rules & value types
+- Reading/writing JSON files (`json.load`, `json.dump`, `json.loads`, `json.dumps`)
+- Updating/appending JSON data
+- Exception handling
+- Accessing nested JSON safely
+- Serializing custom Python objects
+- JSON Schema validation
+- Merging JSON files
+- Working with large JSON files (`ijson`)
+- Faster JSON serialization (`orjson`)
+
+---
