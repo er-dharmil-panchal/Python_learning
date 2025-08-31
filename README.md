@@ -35,7 +35,7 @@ Follow my progress and connect with me on Twitter @Dharmil_13 where I share upda
 <a name="daily-logs"></a>
 ## 🧠 Daily Logs
 Find my day-by-day learning journey here:
-`PROGRESS.md` (PROGRESS.md)  
+[PROGRESS.md](PROGRESS.md)
 Includes what I learned each day.
 ---
 
