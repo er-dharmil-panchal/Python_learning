@@ -377,3 +377,15 @@
 - Faster JSON serialization (`orjson`)
 
 ---
+
+# 🗓️ Day 24 - Python CSV (Aug 31, 2025)
+
+- CSV basics: structure, usage, and differences from JSON  
+- Reading CSV files with `csv.reader` and `csv.DictReader`  
+- Writing CSV files with `csv.writer` and `csv.DictWriter`  
+- Appending data (list-based and dict-based methods)  
+- Updating and deleting rows by reading and rewriting  
+- Sorting CSV data using custom keys
+
+---
+
