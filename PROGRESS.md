@@ -389,3 +389,26 @@
 
 ---
 
+# 🗓️ Day 25 – Basics of Functional Programming (Sep 1, 2025)
+
+## Introduction
+* Explored the concept of **Functional Programming** in Python  
+* Learned how functions can be treated as first-class citizens  
+* Practiced creating **pure functions** and using **lambdas** for concise code  
+
+## Core Tools & Techniques
+* **`map()`** – applied transformations to lists and other iterables  
+* **`filter()`** – extracted data matching specific conditions  
+* **`reduce()`** – combined sequences into a single result (like sums or products)  
+* Learned how to **chain tools** like `map+filter`, `map+reduce`, `filter+reduce`, ans `map+filter+reduce` for complex operations  
+* Practiced **`zip()`** and **`enumerate()`** for pairing data and working with indexes  
+
+## Comprehension Revision
+* Revisited **list, set, and dictionary comprehensions** for concise data manipulation  
+* Practiced **nested comprehensions** and adding conditions  
+* Learned **generator expressions** for **memory-efficient iteration**  
+* Compared **memory usage** between lists and generators with large datasets  
+
+---
+
+
