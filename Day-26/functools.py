@@ -4,6 +4,8 @@
     - reduce
     - lru_cache
     - wraps
+    - total_ordering
+    - cmp_to_key
 """
 
 import time
