@@ -411,4 +411,19 @@
 
 ---
 
+# 🗓️ Day 26 – Functools & JSON-CSV Conversion (Sep 2, 2025)
+
+## Functools Module
+* Learned about the `functools` module for higher-order functions and function manipulation
+* Used **partial functions** to pre-fill arguments and avoid repetition in callbacks or loops
+* Revised **reduce** for sequence aggregation
+* Implemented **lru_cache** for caching results and improving performance in recursive functions like Fibonacci
+* Learned **wraps** to preserve function metadata (`__name__`, `__doc__`) when building decorators
+* Used **total_ordering** to auto-generate missing comparison methods in classes
+* Practiced **cmp_to_key** for custom sorting with comparator functions
+
+## JSON ↔ CSV Conversion
+* Converted **JSON to CSV** using `csv.DictWriter`, including writing headers and multiple rows
+* Converted **CSV to JSON** using `csv.DictReader` and processed numeric fields for type accuracy
+* Understood the practical workflow for **data transformation** between formats for structured processing
 
