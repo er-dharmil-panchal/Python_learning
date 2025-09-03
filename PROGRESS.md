@@ -427,3 +427,18 @@
 * Converted **CSV to JSON** using `csv.DictReader` and processed numeric fields for type accuracy
 * Understood the practical workflow for **data transformation** between formats for structured processing
 
+---
+
+# 🗓️ Day 27 – Virtual Environments & requirements.txt (Sep 3, 2025)
+
+## Virtual Environments
+* Learned to **create, activate, deactivate, and delete venvs**
+* Practiced installing packages inside isolated environments
+* Understood managing **multiple environments** per project in PyCharm
+
+## requirements.txt
+* Created and updated `requirements.txt` with `pip freeze`
+* Installed dependencies quickly with `pip install -r requirements.txt`
+* Learned its role in **reproducibility and version control**
+
+
