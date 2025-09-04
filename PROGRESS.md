@@ -441,4 +441,17 @@
 * Installed dependencies quickly with `pip install -r requirements.txt`
 * Learned its role in **reproducibility and version control**
 
+---
+
+# 🗓️ Day 28 – Python Dunder Methods (Sep 4, 2025)
+
+- `dir()` – list all attributes & methods of an object  
+- `__dict__` – dictionary representation of an object’s instance attributes  
+- `help()` – show documentation of any object (class, method, module)  
+- Dunder/Magic methods (`__init__`, `__str__`, `__repr__`, `__len__`, `__getitem__`, `__setitem__`, `__delitem__`, `__iter__`, `__next__`, `__call__`, `__contains__`, `__del__`, `__enter__`, `__exit__`)  
+- Context manager support with `__enter__` and `__exit__`  
+- Object callable using `__call__`  
+- Iteration protocol using `__iter__` and `__next__`  
+
+---
 
