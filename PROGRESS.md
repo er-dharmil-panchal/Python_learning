@@ -455,3 +455,21 @@
 
 ---
 
+# 🗓️ Day 29 – Mini Social Network (Sep 5 2025)  
+# 🚀 Project Started: Mini Social Network  
+
+## Began building a **command-line social network** in Python with:  
+- **User Registration & Login** – Secure login system with SHA-256 password hashing  
+- **Profile Management** – Basic profile setup with username, age, and bio  
+- **Post Creation** – Ability to create posts with title, content, and timestamps  
+- **Persistent Storage** – Data stored in `users.json` and `posts.json` for reliability  
+- **Schema Validation** – Integrated `jsonschema` for consistent and valid data  
+
+## 🎯 **Key Learning Achievements**  
+- Modular Project Design – Clean separation with `Main.py`, `user.py`, `Post.py`, and `Util.py`  
+- JSON File Handling – Read/write operations for persistent storage  
+- Data Validation – Learned to enforce structure with `jsonschema`  
+- CLI Workflow – Menu-driven interface with Python’s `match-case`  
+
+
+
