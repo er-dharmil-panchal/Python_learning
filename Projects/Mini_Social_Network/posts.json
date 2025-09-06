@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Python",
+        "content": "I am learning python",
+        "username": "Nihar",
+        "created_at": "(Wed Sep  3 19:24:28 2025)"
+    },
+    {
+        "title": "Python",
+        "content": "Just finish Data Structure in Python",
+        "username": "Nihar",
+        "created_at": "(Wed Sep  3 19:26:14 2025)"
+    },
+    {
+        "title": "Geopolitics",
+        "content": "Geopolitics is one of the most interesting things on Earth",
+        "username": "Nihar",
+        "created_at": "(Wed Sep  3 19:27:08 2025)"
+    },
+    {
+        "title": "USA vs IND",
+        "content": "Tarrifs everywhere 🙂",
+        "username": "Nihar",
+        "created_at": "(Wed Sep  3 19:28:22 2025)"
+    },
+    {
+        "title": "Java VS Python",
+        "content": "Python is good for AIML but I think Java wins because it is widely used in every app 👨🏻‍💻",
+        "username": "Nihar",
+        "created_at": "(Wed Sep  3 19:29:32 2025)"
+    },
+    {
+        "title": "Python",
+        "content": "Just finished File IO in python, and it's too easy if you understand well",
+        "username": "Nihar",
+        "created_at": "(Wed Sep  3 19:30:22 2025)"
+    },
+    {
+        "title": "Pharma",
+        "content": "India is the hub of pharmacy",
+        "username": "Dhruvi",
+        "created_at": "(Wed Sep  3 20:43:08 2025)"
+    },
+    {
+        "title": "Travel",
+        "content": "Planning a solo trip to Manali next month! 🚞",
+        "username": "Dhruvi",
+        "created_at": "(Wed Sep  3 21:10:15 2025)"
+    },
+    {
+        "title": "Books",
+        "content": "Started reading 'Atomic Habits' – it’s a game changer 📚",
+        "username": "Dhruvi",
+        "created_at": "(Wed Sep  3 21:25:47 2025)"
+    },
+    {
+        "title": "Coding",
+        "content": "Just solved my first DSA problem – feeling motivated! 💪",
+        "username": "Dharmil",
+        "created_at": "(Wed Sep  3 22:05:32 2025)"
+    },
+    {
+        "title": "Project Update",
+        "content": "Started working on my Mini Social Network project. Excited to build something cool! 🚀",
+        "username": "Dharmil",
+        "created_at": "(Wed Sep  3 22:20:55 2025)"
+    },
+    {
+        "title": "Fitness",
+        "content": "Back to gym after a break – consistency is key 🏋️",
+        "username": "Dharmil",
+        "created_at": "(Wed Sep  3 22:40:10 2025)"
+    }
+]

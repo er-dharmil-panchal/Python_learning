@@ -1,0 +1,58 @@
+[
+    {
+        "username": "Nihar",
+        "password": "1e2ac5f3905b0069591aed9b5a5d1458d2783f5ed723165476f28abc5f543ebb",
+        "age": 19,
+        "bio": "Hey, I am Nihar Kakani.",
+        "created_at": "(Wed Sep  3 19:17:53 2025)"
+    },
+    {
+        "username": "Dhruvi",
+        "password": "f7fd503b2fbb761b35ffa2f60d05588786ef398a2572f41f480d4a8e41e83ebc",
+        "age": 21,
+        "bio": "Crazy",
+        "created_at": "(Wed Sep  3 20:41:08 2025)"
+    },
+    {
+        "username": "Dharmil",
+        "password": "601560efd17c09a77e6794bbaa6657a0e0519ec43b709eb7bb62f5f9cec830db",
+        "age": 18,
+        "bio": "Lazzzyyyyy",
+        "created_at": "(Wed Sep  3 21:19:30 2025)"
+    },
+    {
+        "username": "Ankit",
+        "password": "601560efd17c09a77e6794bbaa6657a0e0519ec43b709eb7bb62f5f9cec830db",
+        "age": 22,
+        "bio": "Coffee lover ☕",
+        "created_at": "(Thu Sep  4 10:00:00 2025)"
+    },
+    {
+        "username": "Megha",
+        "password": "601560efd17c09a77e6794bbaa6657a0e0519ec43b709eb7bb62f5f9cec830db",
+        "age": 20,
+        "bio": "Traveler ✈️",
+        "created_at": "(Thu Sep  4 10:10:00 2025)"
+    },
+    {
+        "username": "Rohit",
+        "password": "601560efd17c09a77e6794bbaa6657a0e0519ec43b709eb7bb62f5f9cec830db",
+        "age": 23,
+        "bio": "Music is life 🎵",
+        "created_at": "(Thu Sep  4 10:20:00 2025)"
+    },
+    {
+        "username": "Sanya",
+        "password": "601560efd17c09a77e6794bbaa6657a0e0519ec43b709eb7bb62f5f9cec830db",
+        "age": 21,
+        "bio": "Foodie 🍕",
+        "created_at": "(Thu Sep  4 10:30:00 2025)"
+    },
+    {
+        "username": "Vivek",
+        "password": "601560efd17c09a77e6794bbaa6657a0e0519ec43b709eb7bb62f5f9cec830db",
+        "age": 24,
+        "bio": "Gamer 🎮",
+        "created_at": "(Thu Sep  4 10:40:00 2025)"
+    }
+]
