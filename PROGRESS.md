@@ -471,5 +471,21 @@
 - Data Validation – Learned to enforce structure with `jsonschema`  
 - CLI Workflow – Menu-driven interface with Python’s `match-case`  
 
+---
+
+# 🗓️ Day 30 – Mini Social Network (Sep 6 2025)  
+# 🚀 Project Update: Follow/Unfollow & Social Feed
+
+## Began enhancing **social interactions** in the CLI social network:  
+- **Follow/Unfollow System** – Users can follow/unfollow others; stored in `followers.json`  
+- **Dynamic Feed** – Followed users’ posts appear first, sorted by most recent  
+- **Profile Improvements** – Last 5 posts visible; follow/unfollow button integrated  
+- **Input Validations & CLI Enhancements** – Prevent following self and duplicates; cleaner menus
+
+## 🎯 **Key Learning Achievements**  
+- Built social interaction logic in CLI  
+- Practiced JSON file handling for followers  
+- Implemented feed prioritization and improved user experience
+
 
 
