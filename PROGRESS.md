@@ -487,5 +487,18 @@
 - Practiced JSON file handling for followers  
 - Implemented feed prioritization and improved user experience
 
+---
+
+# 🗓️ Day 31 – Python Multi-Threading Basics (Sep 7, 2025)
+
+- Learned **threads** as smallest unit of execution  
+- Practiced **multithreading** for concurrent tasks  
+- Used `threading.Thread` with functions  
+- Learned `start()` vs `join()` to control execution  
+- Explored **thread information**: `current_thread()`, `active_count()`, `enumerate()`  
+- Learned storing results from threads using **shared list/dict**  
+- Basic **thread states**: New, Runnable, Running, Waiting/Blocked, Terminated
+
+
 
 
