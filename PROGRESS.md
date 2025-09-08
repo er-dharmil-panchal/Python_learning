@@ -499,6 +499,22 @@
 - Learned storing results from threads using **shared list/dict**  
 - Basic **thread states**: New, Runnable, Running, Waiting/Blocked, Terminated
 
+---
+
+# 🗓️ Day 32 – Python Class-Based Threads, Daemons & Synchronization (Sep 8, 2025)
+
+- Learned creating **custom threads** by subclassing `threading.Thread`  
+- Explored **daemon threads** vs normal threads  
+  - Daemon threads → background, killed when main program exits  
+  - Checked daemon status using `.daemon` attribute  
+- Learned about **race conditions** and why they occur  
+- Fixed race conditions using **Lock()** and context manager (`with lock`)  
+- Understood **RLock (Reentrant Lock)** for recursive acquisitions  
+- Practiced **Semaphore** to limit concurrent threads  
+- Used **Condition (wait/notify)** for Producer-Consumer pattern  
+- Studied **Deadlocks** and ways to prevent them (consistent order, timeout)
+
+**Note:** Practice exercises on multithreading will be added soon.
 
 
 
