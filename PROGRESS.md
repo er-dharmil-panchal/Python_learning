@@ -516,5 +516,26 @@
 
 **Note:** Practice exercises on multithreading will be added soon.
 
+---
+
+# 🗓️ Day 33 – NumPy Basics & Operations (Sep 9, 2025)
+
+## Introduction & Setup
+* Learned what **NumPy** is and why it’s faster than Python lists
+* Created first array and checked attributes (`shape`, `ndim`, `dtype`, `size`)
+
+## NumPy Basics
+* Practiced creating arrays using:
+  - `np.array`, `np.zeros`, `np.ones`, `np.arange`, `np.linspace`
+* Explored array attributes (`shape`, `dtype`, `ndim`, `size`)
+* Performed indexing & slicing on **1D and 2D arrays**
+* Learned to **reshape arrays** and understood axes
+
+## Array Operations
+* Performed arithmetic operations (**add, subtract, multiply, divide**)
+* Understood **broadcasting rules** with scalars and arrays
+* Used universal functions (`np.sqrt`, `np.exp`, `np.log`)
+* Practiced aggregation functions (`np.sum`, `np.mean`, `np.max`, `np.min`, `np.std`)
+* Learned about NumPy **data types** (`int`, `float`, `bool`, `complex`, `string`, `datetime`, `object`, etc.)
 
 
