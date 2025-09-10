@@ -538,4 +538,24 @@
 * Practiced aggregation functions (`np.sum`, `np.mean`, `np.max`, `np.min`, `np.std`)
 * Learned about NumPy **data types** (`int`, `float`, `bool`, `complex`, `string`, `datetime`, `object`, etc.)
 
+---
+
+# 🗓️ Day 34 – NumPy Advanced Indexing & Random Module (Sep 10, 2025)
+
+## Advanced Indexing & Slicing
+* Learned **Boolean Indexing** to filter arrays with conditions
+  - Single condition, multiple conditions using `&`/`|`, negation with `~`
+* Practiced **Fancy Indexing** with custom index arrays (1D & 2D)
+* Explored **np.where()** for vectorized conditional selection/replacement
+
+## Random Module
+* Generated **random integers** using `np.random.randint()`
+* Generated **random floats** using `np.random.rand()`, `np.random.random()`, `np.random.uniform()`
+* Picked elements randomly using **np.random.choice()** (with/without replacement, weighted probabilities)
+* Explored **random distributions**
+  - Standard Normal (`np.random.randn`)
+  - Custom Normal (`np.random.normal`)
+  - Binomial Distribution (`np.random.binomial`)
+* Shuffled arrays using **shuffle** and **permutation**
+* Used **seed** for reproducibility
 
