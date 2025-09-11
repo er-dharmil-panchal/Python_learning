@@ -559,3 +559,29 @@
 * Shuffled arrays using **shuffle** and **permutation**
 * Used **seed** for reproducibility
 
+---
+
+# 🗓️ Day 35 – NumPy Linear Algebra & Useful Functions (Sep 11, 2025)
+
+## Linear Algebra – `numpy.linalg`
+* **Dot Product & Matrix Multiplication**: `np.dot()`, `@`
+* **Transpose**: `.T`
+* **Determinant**: `np.linalg.det()` (check invertibility)
+* **Inverse**: `np.linalg.inv()` (or pseudo-inverse with `np.linalg.pinv()`)
+* **Eigenvalues & Eigenvectors**: `np.linalg.eig()`, `np.linalg.eigh()`, `np.linalg.eigvals()`
+* **Solving Linear Systems**: `np.linalg.solve()`
+* **Matrix Norms**: `np.linalg.norm()` (Euclidean, Frobenius, ord=1, ord=inf)
+* **Trace**: `np.trace()`
+* **Matrix Rank**: `np.linalg.matrix_rank()`
+* **Condition Number**: `np.linalg.cond()`
+* **Kronecker Product**: `np.kron()`
+
+## Useful NumPy Functions
+* **Unique Elements**: `np.unique()` (with `return_counts`, `return_index`, `return_inverse`)
+* **Sorting**: `np.sort()`, `np.argsort()`, sorting by axis, flattened sort
+* **Stacking Arrays**: `np.hstack()`, `np.vstack()`, `np.stack()`, `np.column_stack()`, `np.dstack()`, `np.concatenate()`
+* **Splitting Arrays**: `np.split()`, `np.array_split()`, `np.hsplit()`, `np.vsplit()`
+* **Searching**: `np.where()`, `np.nonzero()`, `np.argwhere()`, `np.any()`, `np.all()`, `np.searchsorted()`
+
+*💡 Do some practice to solidify concepts.*
+
