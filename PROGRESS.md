@@ -585,3 +585,17 @@
 
 *💡 Do some practice to solidify concepts.*
 
+---
+
+# 🗓️ Day 36 – NumPy Real Data, Cleaning & Scaling (Sep 12, 2025)
+
+* Loaded messy numeric data using `np.loadtxt()` (simple, numeric only) and `np.genfromtxt()` (handles NaNs).
+* Checked and located NaNs with `np.isnan()` and `np.where()`.
+* Explored NaN handling with `np.nansum()`, `np.nanmean()`, `np.nanstd()`.
+* Replaced NaNs using `np.nan_to_num()` or column means via `np.take()`.
+* Cleaned data by removing rows with NaNs, duplicates (`np.unique()`), and invalid values; applied conditional feature filtering.
+* Understood fancy indexing vs `np.take()` (axis control, flattened indexing, out-of-range handling with `clip` or `wrap`)—useful for NaN replacement and column-wise operations.
+* Learned scaling techniques: normalization (0–1 range, preserves order) and standardization (mean=0, std=1, accounts for variability) in **detail**.
+
+💡 Practiced combining these steps for real-world datasets to ensure clean, scaled, ML-ready data.
+
