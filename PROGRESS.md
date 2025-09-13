@@ -599,3 +599,30 @@
 
 💡 Practiced combining these steps for real-world datasets to ensure clean, scaled, ML-ready data.
 
+---
+
+# 🗓️ Day 37 – NumPy Advanced Topics & Image Manipulation (Sep 13, 2025)
+
+## NumPy - Advanced Topics
+* **Broadcasting**: performed operations on arrays of different shapes without explicit loops.
+* **Vectorization**: fast, loop-free numerical operations using NumPy.
+* **Memory Layout**:
+  - Views vs Copies: slicing creates views, `.copy()` creates independent arrays.
+* **Performance Comparison**: NumPy arrays faster than Python lists for arithmetic, aggregation, and mathematical operations.
+* **Structured Arrays**: stored heterogeneous data with field names, accessed via `data['field_name']`.
+* **Iteration with `nditer`**: flexible, memory-efficient iteration across multi-dimensional arrays; supports in-place modifications and broadcasting.
+* **Trigonometric & Mathematical Functions**: `np.sin()`, `np.cos()`, `np.tan()`, `np.sqrt()`, `np.exp()`, `np.log()`, `np.trunc()`.
+* **Statistical Functions**: `np.percentile()`, `np.corrcoef()`, `np.histogram()` for percentiles, correlations, and histograms.
+
+## Image Manipulation Practice
+* Loaded an image using `PIL.Image` and converted it to a NumPy array.
+* Explored image shapes: `(height, width, channels)` → confirmed RGB layout.
+* Converted image to **grayscale** using `img_array.mean(axis=2).astype(np.uint8)`.
+* Applied **single-channel filters**:
+  - Red, Green, Blue isolation by zeroing out other channels.
+* Created **custom color images** using user-provided multipliers for RGB channels.
+* Cropped images using slicing: `cropped_array = img_array[y1:y2, x1:x2]`.
+* Adjusted **brightness** using broadcasting: `np.clip(img_array + bright_val, 0, 255)`.
+
+
+
