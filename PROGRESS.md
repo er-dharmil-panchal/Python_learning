@@ -624,5 +624,20 @@
 * Cropped images using slicing: `cropped_array = img_array[y1:y2, x1:x2]`.
 * Adjusted **brightness** using broadcasting: `np.clip(img_array + bright_val, 0, 255)`.
 
+---
 
+# 🗓️ Day 37 – NumPy Project – Student Performance Analysis (Sep 14, 2025)
+
+##  Overview
+Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute stats, sort, filter, and calculate correlations.
+
+##  Features
+- **Load CSV** → User input or default file  
+- **Clean Data** → Remove duplicates, handle missing values (`np.nan`)  
+- **Convert Numeric** → Scores & attendance as float  
+- **Manipulate Data** → Bonus marks, normalize attendance  
+- **Statistics** → Mean, Std, top student total  
+- **Filtering** → Students with 80+ in all subjects  
+- **Sorting** → Top 5 students by total marks  
+- **Linear Algebra** → Weighted average, correlation matrix
 
