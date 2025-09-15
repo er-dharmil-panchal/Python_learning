@@ -626,7 +626,7 @@
 
 ---
 
-# 🗓️ Day 37 – NumPy Project – Student Performance Analysis (Sep 14, 2025)
+# 🗓️ Day 38 – NumPy Project – Student Performance Analysis (Sep 14, 2025)
 
 ##  Overview
 Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute stats, sort, filter, and calculate correlations.
@@ -640,4 +640,23 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 - **Filtering** → Students with 80+ in all subjects  
 - **Sorting** → Top 5 students by total marks  
 - **Linear Algebra** → Weighted average, correlation matrix
+
+---
+
+# 🗓️ Day 39 – Pandas Basics & Data Selection (Sep 15, 2025)
+
+## Pandas Basics
+* Learned what **Pandas** is and why it is built on NumPy  
+* Created **Series** (from list, dict, scalar) and explored attributes (`index`, `values`, `dtype`, `head`, `tail`)  
+* Created **DataFrames** (dict of lists, list of lists, NumPy array)  
+* Practiced inspecting data with `head()`, `tail()`, `shape`, `info()`, `describe()`, `dtypes`  
+* Loaded and saved data using `read_csv()`, `to_csv(index=False)`, `read_json()`, `to_json()`
+
+## Data Selection & Indexing
+* Selected **columns** (single → Series, multiple → DataFrame)  
+* Selected **rows** with `loc[]` (label) and `iloc[]` (position)  
+* Combined row + column selection  
+* Practiced **row/column slicing** (loc inclusive, iloc exclusive)  
+* Used **boolean indexing** for filtering (`df[df['Age']>18]`)  
+* Created, updated, and dropped columns using vectorized operations
 
