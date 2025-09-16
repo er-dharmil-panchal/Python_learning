@@ -660,3 +660,16 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Used **boolean indexing** for filtering (`df[df['Age']>18]`)  
 * Created, updated, and dropped columns using vectorized operations
 
+---
+
+# 🗓️ Day 40 – Pandas Data Cleaning (Sep 16, 2025)
+
+* Learned how to **detect missing values** with `isnull()` / `isna()` and count them  
+* Practiced **filling missing data** with constants, median (numeric), and mode (categorical)  
+* Understood `errors='coerce'` in `pd.to_numeric()` and converted invalid data to NaN safely  
+* Preserved numeric columns using `.astype('Int64')`  
+* Cleaned string columns by trimming spaces (`.str.strip()`) and fixing case (`.str.capitalize()`)  
+* Standardized city names and replaced blanks with `"Unknown"`  
+* Learned to **drop duplicates** after cleaning to remove exact matches  
+* Practiced dropping rows with missing values using `dropna(subset=['Age'])`
+
