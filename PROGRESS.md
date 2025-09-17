@@ -673,3 +673,19 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Learned to **drop duplicates** after cleaning to remove exact matches  
 * Practiced dropping rows with missing values using `dropna(subset=['Age'])`
 
+---
+
+# 🗓️ Day 41 – Pandas Filtering, Sorting & Ranking (Sep 17, 2025)
+
+* Recapped **Boolean filtering** and used multiple conditions with `&` (AND) and `|` (OR)  
+* Practiced `isin()` for list-based filtering and `between()` for range-based filtering  
+* Learned **SQL-like syntax** with `query()` and used variables inside queries with `@`  
+* Used `.loc[]` to filter rows and select specific columns safely  
+* Performed string-based filtering with `.str.contains()`, `.str.startswith()`, `.str.endswith()`  
+* Learned difference between **chained indexing** vs using `.loc` (best practice)  
+* Practiced `sort_values()` (single & multiple columns, ascending/descending)  
+* Sorted rows by index with `sort_index()`  
+* Learned to reset index after sorting with `reset_index(drop=True)`  
+* Used `rank()` to assign positions based on column values and explored ranking methods:  
+  * `average`, `min`, `max`, `dense` (handling ties)  
+* Combined filter → sort → head() to get **top-N results** (real-world analysis)
