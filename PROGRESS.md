@@ -689,3 +689,16 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Used `rank()` to assign positions based on column values and explored ranking methods:  
   * `average`, `min`, `max`, `dense` (handling ties)  
 * Combined filter → sort → head() to get **top-N results** (real-world analysis)
+
+---
+
+# 🗓️ Day 42 – Pandas GroupBy & Aggregation (Sep 18, 2025)
+
+* Learned **Split → Apply → Combine** concept with `groupby()`  
+* Grouped by single/multiple columns and applied `mean`, `sum`, `count`, `min`, `max`  
+* Used `.agg()` for multiple aggregations and **named aggregation** for readability  
+* Accessed groups with `.groups` / `.get_group()` and filtered groups with `.filter()`  
+* Learned **top-N per group** (`nlargest()`) and **custom functions** via `.apply()`  
+* Used `.transform()` for group-wise operations and **cumulative operations** (`cumsum`)  
+* Flattened multiIndex columns with `.reset_index()` and practiced **pivot tables**  
+
