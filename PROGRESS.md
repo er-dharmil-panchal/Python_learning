@@ -702,3 +702,15 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Used `.transform()` for group-wise operations and **cumulative operations** (`cumsum`)  
 * Flattened multiIndex columns with `.reset_index()` and practiced **pivot tables**  
 
+---
+
+# 🗓️ Day 43 – Pandas Joining & Merging (Sep 19, 2025)
+
+* Learned **SQL-style joins** (`inner`, `left`, `right`, `outer`) using `pd.merge()`  
+* Merged DataFrames with **different column names** using `left_on` / `right_on`  
+* Joined DataFrames on **index** using `join()` and controlled overlaps with `lsuffix` / `rsuffix`  
+* Merged on **multiple keys** (composite keys) for precise matching  
+* Handled **overlapping column names** with `suffixes`  
+* Stacked DataFrames **vertically** and **horizontally** using `pd.concat()` and `keys` for MultiIndex  
+* Filled missing data from another DataFrame using `combine_first()`  
+* Debugged joins with `indicator=True` to see row origin (`left_only`, `right_only`, `both`)
