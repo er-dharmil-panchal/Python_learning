@@ -714,3 +714,15 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Stacked DataFrames **vertically** and **horizontally** using `pd.concat()` and `keys` for MultiIndex  
 * Filled missing data from another DataFrame using `combine_first()`  
 * Debugged joins with `indicator=True` to see row origin (`left_only`, `right_only`, `both`)
+
+---
+
+# 🗓️ Day 44 – Pandas Apply & Transform (Sep 20, 2025)
+
+* Used `.apply()` for **row-wise and column-wise** operations (custom calculations & lambda functions)  
+* Used `.map()` for **Series-level transformations**, including **dict-based mapping**  
+* Used `.applymap()` for **element-wise operations** on entire DataFrame  
+* Performed **group-wise transformations** with `.transform()` (broadcast group mean to rows)  
+* Created **custom features** (total marks, difference from group mean) using `apply` and `transform`  
+* Learned **differences** between `apply`, `map`, `applymap`, and `transform`  
+* Understood why **vectorized operations are faster** than apply and when to prefer them  
