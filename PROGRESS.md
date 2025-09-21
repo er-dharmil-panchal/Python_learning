@@ -726,3 +726,17 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Created **custom features** (total marks, difference from group mean) using `apply` and `transform`  
 * Learned **differences** between `apply`, `map`, `applymap`, and `transform`  
 * Understood why **vectorized operations are faster** than apply and when to prefer them  
+
+---
+
+# 🗓️ Day 45 – Pandas Time Series & Data-Handling (Sep 21, 2025)
+
+* Converted columns to **datetime** and extracted components (year, month, day, etc.)  
+* Set **DatetimeIndex** for easy selection and partial string indexing  
+* Filtered rows using **boolean masks** on date components  
+* **Resampled** data daily, weekly, monthly with `.resample()`  
+* Used **.shift()** for lag/lead comparisons  
+* Calculated **rolling/moving averages** and compared with previous periods  
+* Handled **time zones** with `tz_localize()` and `tz_convert()`  
+* Sorted by datetime to ensure correct rolling/resampling results  
+
