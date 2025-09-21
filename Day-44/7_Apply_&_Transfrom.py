@@ -12,6 +12,14 @@
     - Differences between apply, map, applymap, transform
     - Using lambda functions and custom functions
     - Vectorization vs. apply (performance consideration)
+
+📝 Summary:
+    - apply() → flexible; works on Series (element-wise) and DataFrames (row/column-wise)
+    - map() → element-wise Series transform; accepts function, dict, or Series
+    - applymap() → element-wise DataFrame transform; function called per cell
+    - transform() → group-wise calculation broadcasted to original shape; used with groupby
+    - Prefer vectorized operations over apply for performance
+
 """
 
 import pandas as pd
