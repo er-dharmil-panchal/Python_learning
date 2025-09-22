@@ -740,3 +740,12 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Handled **time zones** with `tz_localize()` and `tz_convert()`  
 * Sorted by datetime to ensure correct rolling/resampling results  
 
+---
+
+# 🗓️ Day 46 – Pandas Business Days & Offsets (Sep 22, 2025)
+
+* Learned to generate **business-day ranges** using `pd.bdate_range()` (Mon–Fri only)  
+* Shifted sales values by **business days** using `.shift(freq="B")`  
+* Added **future business-day offsets** with `pd.offsets.BDay()` for forecasting  
+* Understood practical applications in **finance, sales, and delivery date projections**  
+* Did some **practice and revision** of Pandas concepts to prepare for the final project
