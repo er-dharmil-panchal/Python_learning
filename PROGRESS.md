@@ -749,3 +749,16 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Added **future business-day offsets** with `pd.offsets.BDay()` for forecasting  
 * Understood practical applications in **finance, sales, and delivery date projections**  
 * Did some **practice and revision** of Pandas concepts to prepare for the final project
+
+---
+
+# 🗓️ Day 47 – Matplotlib Line Plot Customization (Sep 23, 2025)
+
+* Created **basic line plots** using `plt.plot()`  
+* Added **title, x-axis and y-axis labels**, and **grid** for better readability  
+* Customized **lines**: color, linestyle, linewidth, alpha  
+* Customized **markers**: type, size, face color, edge color  
+* Added **legend** to identify plots  
+* Saved figures as **PNG and PDF** using `plt.savefig()`  
+* Practiced Matplotlib basics and maintained
+* **consistent daily progress, covering topics gradually due to festival**
