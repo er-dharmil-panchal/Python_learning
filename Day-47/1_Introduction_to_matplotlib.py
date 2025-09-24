@@ -1,5 +1,5 @@
 """
-📌 Matplotlib – Step 0.3 (Step-by-Step Line Customization, Beginner Friendly)
+📌 Matplotlib – Step 1 (Introduction to matplotlib)
 
 This file covers:
     - Creating a basic line plot using plt.plot()
