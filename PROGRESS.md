@@ -762,3 +762,14 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Saved figures as **PNG and PDF** using `plt.savefig()`  
 * Practiced Matplotlib basics and maintained
 * **consistent daily progress, covering topics gradually due to festival**
+
+---
+
+# 🗓️ Day 48 – Matplotlib Various Plot Types (Sep 24, 2025)
+
+* Learned **Bar Plots**: vertical, horizontal, grouped, stacked  
+* Learned **Scatter Plots** and customization: color, size, marker, edge color, alpha  
+* Learned **Histograms**: bins, density, multiple datasets, annotations  
+* Learned **Pie Plots**: proportions, autopct, explode, labels  
+* Learned **Area Plots**: basic area, multiple areas, baseline area  
+* Practiced various plot types to enhance data visualization skills  
