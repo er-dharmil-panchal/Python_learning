@@ -773,3 +773,15 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Learned **Pie Plots**: proportions, autopct, explode, labels  
 * Learned **Area Plots**: basic area, multiple areas, baseline area  
 * Practiced various plot types to enhance data visualization skills  
+
+---
+
+# 🗓️ Day 49 – Matplotlib Styling & Customization (Sep 25, 2025)
+
+* Axis control: setting limits, aspect ratios, tight/equal scaling  
+* Ticks customization: major & minor ticks, locators, formatters, rotation  
+* Legends: adding, positioning, styling  
+* Colors & styles: linestyles, markers, alpha, style sheets  
+* Text & annotations: plt.text(), plt.annotate()  
+* Axis vs Axes: difference and usage  
+* Practiced customization techniques for making plots presentation-ready  
