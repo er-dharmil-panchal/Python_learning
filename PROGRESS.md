@@ -785,3 +785,14 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Text & annotations: plt.text(), plt.annotate()  
 * Axis vs Axes: difference and usage  
 * Practiced customization techniques for making plots presentation-ready  
+
+---
+
+# 🗓️ Day 50 – Matplotlib Multiple Plots & Subplots (Sep 26, 2025)
+
+* Multiple lines in one figure: repeated `plt.plot()` calls, labels, colors, linestyles
+* Subplots with `plt.subplot()`: creating grids, independent titles, labels, limits
+* Subplots with `plt.subplots()`: `fig` and `ax` objects, shared axes, explicit control
+* Global customization: `fig.suptitle()`, `fig.text()` for common labels
+* Layout control: `plt.tight_layout()`, `plt.subplots_adjust()`
+* Practiced subplot creation, axis sharing, loop automation, and layout adjustment
