@@ -796,3 +796,12 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Global customization: `fig.suptitle()`, `fig.text()` for common labels
 * Layout control: `plt.tight_layout()`, `plt.subplots_adjust()`
 * Practiced subplot creation, axis sharing, loop automation, and layout adjustment
+
+---
+
+# 🗓️ Day 51 – Matplotlib Advanced Plots & Exporting (Sep 27, 2025)
+
+* Grouping & bar plots, stack plots, 3D & contour plots  
+* Polar & quiver plots, colormaps  
+* Saving figures in multiple formats with DPI control  
+* Tight layout saving, exporting data as CSV/JSON  
