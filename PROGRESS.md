@@ -805,3 +805,12 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Polar & quiver plots, colormaps  
 * Saving figures in multiple formats with DPI control  
 * Tight layout saving, exporting data as CSV/JSON  
+
+---
+
+# 🗓️ Day 52 – Seaborn Basics (Sep 28, 2025)
+
+* Seaborn basics: works with Pandas, built on Matplotlib  
+* Relational plots: scatter, line  
+* Enhancements: hue, style, size  
+* Matplotlib for customization
