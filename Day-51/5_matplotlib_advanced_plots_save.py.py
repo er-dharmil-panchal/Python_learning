@@ -78,9 +78,18 @@ plt.show()
 
 fig = plt.figure(figsize=(8, 6))
 ax = fig.add_subplot(111, projection="3d")
+# can also do like this
+# fig, ax = plt.subplots(1, 1, figsize=(8, 6), subplot_kw={"projection": "3d"})
+
 X = np.linspace(-5, 5, 50)
 Y = np.linspace(-5, 5, 50)
+# Before:
+# x is 1D → shape (5,)
+# y is 1D → shape (7,)
 X, Y = np.meshgrid(X, Y)
+# After:
+# X.shape == (7, 5)
+# Y.shape == (7, 5)
 Z = np.sin(np.sqrt(X ** 2 + Y ** 2))
 
 ax.plot_surface(X, Y, Z, cmap="viridis")
@@ -122,11 +131,17 @@ y = np.arange(0, 2, 0.2)
 X, Y = np.meshgrid(x, y)
 U = np.cos(X) * Y
 V = np.sin(Y) * X
+# Defines the vector components at each grid point:
+# U = horizontal (x-direction) component.
+# V = vertical (y-direction) component.
 
 plt.figure(figsize=(6, 6))
 plt.quiver(X, Y, U, V, color="teal")
 plt.title("Quiver Plot Example")
 plt.show()
+# plt.quiver(X, Y, U, V) draws arrows:
+# Base of arrow = (X, Y) grid points.
+# Direction & length = (U, V) values.
 
 # =====================================================
 # =========== COLORMAPS ==============================
@@ -139,6 +154,15 @@ for i, cmap in enumerate(["viridis", "plasma", "inferno"]):
 plt.legend()
 plt.title("Colormap Examples")
 plt.show()
+"""
+| Colormap    | Color Shade Description                 |
+| ----------- | --------------------------------------- |
+| viridis     | Dark purple → blue → green → yellow     |
+| plasma      | Dark purple → magenta → orange → yellow |
+| inferno     | Black → dark red → orange → yellow      |
+| magma       | Black → deep purple → red → orange      |
+| cividis     | Dark blue → turquoise → light yellow    |
+"""
 
 # =====================================================
 # ============== SAVING & EXPORTING ===================
