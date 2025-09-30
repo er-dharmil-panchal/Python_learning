@@ -827,7 +827,7 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 
 ---
 
-# 🗓️ Day 53 – Seaborn Step 3: Statistical Plots & Customization (Sep 30, 2025)
+# 🗓️ Day 54 – Seaborn Step 3: Statistical Plots & Customization (Sep 30, 2025)
 
 * Regression plots ➔ sns.regplot(), sns.lmplot() for relationships & trends  
 * order ➔ polynomial degree, ci ➔ confidence interval  
