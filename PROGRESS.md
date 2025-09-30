@@ -814,3 +814,17 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Relational plots: scatter, line  
 * Enhancements: hue, style, size  
 * Matplotlib for customization
+
+---
+
+# 🗓️ Day 53 – Seaborn Step 3: Statistical Plots & Customization (Sep 30, 2025)
+
+* Regression plots ➔ sns.regplot(), sns.lmplot() for relationships & trends  
+* order ➔ polynomial degree, ci ➔ confidence interval  
+* Heatmaps ➔ sns.heatmap() to show correlations  
+* center ➔ highlight zero correlation, cmap ➔ choose color palette  
+* Clustermaps ➔ sns.clustermap() for grouped similarity  
+* Matrix plots ➔ pivot table visualization with heatmap  
+* Statistical relationship plots ➔ residplot, kdeplot, jointplot, pairplot  
+* Themes & palettes ➔ sns.set_theme(), sns.set_palette() for styling
+
