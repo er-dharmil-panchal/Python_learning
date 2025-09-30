@@ -817,6 +817,16 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 
 ---
 
+# 🗓️ Day 53 – Seaborn Categorical & Distribution Plots (Sep 29, 2025)
+
+* Categorical plots: bar, count, box, violin, strip, swarm  
+* Distribution plots: histogram, KDE, displot, ECDF, rug, joint, pair  
+* Parameters explained: hue, style, size, ci, palette, jitter, dodge  
+* Combined categorical + distribution plots for EDA  
+
+
+---
+
 # 🗓️ Day 53 – Seaborn Step 3: Statistical Plots & Customization (Sep 30, 2025)
 
 * Regression plots ➔ sns.regplot(), sns.lmplot() for relationships & trends  
