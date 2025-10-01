@@ -838,3 +838,14 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Statistical relationship plots ➔ residplot, kdeplot, jointplot, pairplot  
 * Themes & palettes ➔ sns.set_theme(), sns.set_palette() for styling
 
+---
+
+# 🗓️ Day 55 – Streamlit Step 1: Foundations of Streamlit (Oct 1, 2025)
+
+* Install & run ➔ `pip install streamlit`, run apps with `streamlit run filename.py`  
+* Text elements ➔ `st.title()`, `st.header()`, `st.subheader()`, `st.text()`, `st.markdown()`  
+* Smart display ➔ `st.write()` shows text, numbers, dataframes, charts, plots  
+* Tables ➔ `st.table()` (static), `st.dataframe()` (interactive scrollable table)  
+* Plots ➔ Can render `matplotlib` / `seaborn` figures with `st.pyplot(fig)`
+
+
