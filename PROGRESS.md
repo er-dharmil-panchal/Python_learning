@@ -848,4 +848,13 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Tables ➔ `st.table()` (static), `st.dataframe()` (interactive scrollable table)  
 * Plots ➔ Can render `matplotlib` / `seaborn` figures with `st.pyplot(fig)`
 
+---
 
+# 🗓️ Day 56 – Streamlit Step 2: Widgets and Interactivity (Oct 2, 2025)
+
+* Basic input widgets ➔ `st.button()`, `st.checkbox()`, `st.radio()`, `st.selectbox()`, `st.slider()`, `st.text_input()`, `st.multiselect()`, `st.text_area()`
+* Widget attributes ➔ labels, default values, help tooltips, keys, disabled state, visibility controls, horizontal/vertical layout
+* Sidebar navigation ➔ `st.sidebar.title()`, `st.sidebar.radio()` for clean UI and navigation
+* File uploads ➔ `st.file_uploader()` to load CSV files, preview data with `st.dataframe()`
+* Forms ➔ `st.form()`, `st.form_submit_button()` for grouping inputs and controlled submission
+* Mini Project: CSV Explorer ➔ Upload CSV → preview table → filter columns → plot numeric data
