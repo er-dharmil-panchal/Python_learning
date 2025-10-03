@@ -858,3 +858,14 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * File uploads ➔ `st.file_uploader()` to load CSV files, preview data with `st.dataframe()`
 * Forms ➔ `st.form()`, `st.form_submit_button()` for grouping inputs and controlled submission
 * Mini Project: CSV Explorer ➔ Upload CSV → preview table → filter columns → plot numeric data
+
+---
+
+# 🗓️ Day 57 – Streamlit Step 3: State and Multiple Pages (Oct 3, 2025)
+
+* State Management ➔ st.session_state for persistent variables across reruns  
+* Linking Widgets with Session State ➔ use key to store widget values  
+* Manual Sidebar Navigation ➔ st.sidebar.radio() for single-file multi-page navigation  
+* Pages Folder System ➔ each file inside pages/ becomes a separate page in sidebar  
+* Tabs Layout ➔ st.tabs() to organize content in tabbed sections  
+* Layouts & Media ➔ st.columns(), st.expander(), st.image(), st.audio(), st.video(), st.download_button()
