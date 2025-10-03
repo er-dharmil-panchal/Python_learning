@@ -197,6 +197,10 @@ feedback = st.text_area(
 if feedback:
     st.write("Your feedback:", feedback)
 
+# Attributes:
+# - height: int
+# - max_chars: int
+
 # =====================================================
 # ================ Sidebar Navigation =================
 # =====================================================
@@ -204,16 +208,20 @@ if feedback:
 st.header("Sidebar Navigation Example")
 st.sidebar.title("Sidebar Filters")
 
-# Attributes:
-# - height: int
-# - max_chars: int
-
 page = st.sidebar.radio(
     "Go to:",
     ["Home", "Dashboard", "About"],
     help="Use sidebar to navigate between pages"
 )
 st.write("You are on the:", page, "page")
+
+# can also do this. ( using with keyword )
+# with st.sidebar:
+#     st.title("Sidebar Example")
+#     name = st.text_input("Enter your name")
+#     age = st.slider("Select Age", 18, 60, 25)
+#     choice = st.radio("Pick one:", ["Option A", "Option B", "Option C"])
+
 
 # 👉 Use sidebar for navigation, filters, settings.
 
