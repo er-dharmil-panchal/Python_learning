@@ -869,3 +869,12 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Pages Folder System ➔ each file inside pages/ becomes a separate page in sidebar  
 * Tabs Layout ➔ st.tabs() to organize content in tabbed sections  
 * Layouts & Media ➔ st.columns(), st.expander(), st.image(), st.audio(), st.video(), st.download_button()
+
+---
+
+# 🗓️ Day 58 – Streamlit Step 4: Metrics & Advanced Charts (Oct 4, 2025)
+
+* KPIs ➔ st.metric() for key performance indicators with delta values  
+* Plotly Charts ➔ scatter, line, bar, area, pie, histogram, box, sunburst (interactive + hover + zoom)  
+* Altair Charts ➔ clean declarative syntax, concise, interactive by default  
+* Dynamic Charts ➔ real-time updates with sliders and st.line_chart()
