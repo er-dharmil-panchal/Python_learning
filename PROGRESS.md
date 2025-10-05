@@ -878,3 +878,12 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * Plotly Charts ➔ scatter, line, bar, area, pie, histogram, box, sunburst (interactive + hover + zoom)  
 * Altair Charts ➔ clean declarative syntax, concise, interactive by default  
 * Dynamic Charts ➔ real-time updates with sliders and st.line_chart()
+
+---
+
+# 🗓️ Day 59 – Streamlit Step 5: Deployment & Publishing (Oct 5, 2025)
+
+* Requirements File ➔ generate dependencies using `pip freeze > requirements.txt`  
+* GitHub Integration ➔ push project & enable auto-deploy on commit  
+* Streamlit Cloud ➔ free hosting with continuous updates  
+* Optional Hosts ➔ Render, Railway, Heroku for advanced deployment  
