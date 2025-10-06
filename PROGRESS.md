@@ -887,3 +887,13 @@ Analyze 100-student dataset using **NumPy**: load, clean, manipulate, compute st
 * GitHub Integration ➔ push project & enable auto-deploy on commit  
 * Streamlit Cloud ➔ free hosting with continuous updates  
 * Optional Hosts ➔ Render, Railway, Heroku for advanced deployment  
+
+---
+
+# 🗓️ Day 60 – Streamlit Step 6: Polish & Portfolio (Oct 6, 2025)
+
+* Custom Theme ➔ set global app style via `config.toml`  
+* HTML/CSS Styling ➔ use `st.markdown()` with `unsafe_allow_html=True`  
+* Branding ➔ add logos/icons with `st.image()`  
+* Multi-Page Navigation ➔ use `st.sidebar.radio()` for clean structure  
+* Portfolio Setup ➔ organize project for professional presentation
